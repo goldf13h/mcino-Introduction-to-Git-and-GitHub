@@ -1,0 +1,4 @@
+@goldf13h ➜ /workspaces/mcino-Introduction-to-Git-and-GitHub (bug-fix-revert) $ git branch -vv
+* bug-fix-revert 64374dc [origin/bug-fix-revert] Revert "Fix typo in README footer year"
+  bug-fix-typo   f1c5585 [origin/bug-fix-typo] Fix typo in README footer year
+  main           f1c5585 [origin/main: ahead 1] Fix typo in README footer year
